@@ -1,8 +1,26 @@
-##Run app 
-$ npm run watch
 
-##Run test
-$ npm run test
+### Project Setup
 
-##Heroku
-https://tn-getir.herokuapp.com/
+In the project directory, you can run:
+
+```
+npm install
+```
+
+To run web werver:
+
+```
+npm run watch
+```
+
+To run tests:
+```
+npm run test
+```
+
+### Set application environment variables
+
+```
+PORT=
+DATABASE=
+```
